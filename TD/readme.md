@@ -71,6 +71,6 @@ Grâce à la commande `cd`, changez le dossier de l'invite de commande :
 ```bash
     C:\Users\shoerley\Documents\IntroIA_shoerley\hello_world>python hello_world.py
 ```
-Si cela ne fonctionne pas, essayez avec ``python3`` au lieu de `python`.
+Si cela ne fon[main.py](..%2F..%2Fautres%2Fmain.py)ctionne pas, essayez avec ``python3`` au lieu de `python`.
 
 Retenez : l'invite de commande doit pointer vers le dossier où se trouve votre programme pour pouvoir le lancer :
