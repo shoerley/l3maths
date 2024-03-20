@@ -24,8 +24,8 @@ La note à cette épreuve sera la note de contrôle continu pour l'enseignement.
 
 Vous aurez deux notes de travaux pratiques.
 - Note 1 : Remise du TD2 (date limite de remise: mer. 27 mars 2024 à 13h)
-- Note 2 : Remise du TD3 (date limite de remise: mer. 11 avril 2014 à 13h)
-- Note 3 : TP noté en séance le mer. 17 avril 2023 de 11h15 à 13h (sur le créneau du dernier TD)
+- Note 2 : Remise du TD3 (date limite de remise: mer. 11 avril 2024 à 13h)
+- Note 3 : TP noté en séance le mer. 17 avril 2024 de 11h15 à 13h (sur le créneau du dernier TD)
 
 La note à cette épreuve sera la moyenne des trois notes. La note 3 sera coefficientée 0.5, la note 2 sera coefficientée 0.3, la note 1 sera coefficientée 0.2
 
