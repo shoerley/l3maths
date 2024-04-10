@@ -1,5 +1,23 @@
 shoerley march2024
 
+## Liens fonctionnels
+
+Certains liens ne sont pas fonctionnels dans le document PDF. Voici les bons :
+
+Machines à vecteurs de support :
+- SVM - Explications : https://scikit-learn.org/stable/modules/svm.html#svm
+- SVM - API : https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
+
+Plus proches voisins :
+- k-NN - Explications : https://scikit-learn.org/stable/modules/neighbors.html
+- k-NN - API : https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#sklearn.neighbors.KNeighborsClassifier
+
+Arbres de décision :
+- DecisionTree - Explications : https://scikit-learn.org/stable/modules/tree.html#decision-trees
+- DecisionTree - API : https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+
+
+
 ## Travail à rendre -- TD3
 
 Vous devez envoyer par mail (voir adresse en séance) les éléments suivants :
