@@ -27,3 +27,5 @@ Vous devez envoyer par mail (voir adresse en séance) les éléments suivants :
 
 **Le jeu. 11 avril 2024, à 00h** : votre remise finale et définitive.
 
+**Attention :** en cas de remise uniquement le jeu. 11 avril 2024, le travail sera noté sur la moitié des points. 
+
