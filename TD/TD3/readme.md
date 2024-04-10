@@ -21,6 +21,9 @@ Arbres de décision :
 ## Travail à rendre -- TD3
 
 Vous devez envoyer par mail (voir adresse en séance) les éléments suivants :
-- Vos codes sources et vos réponses pour les thématiques 5, 6 et 7
+- Vos codes sources (fichiers *.py) et vos réponses (Word, autre traitement de texte, PDF ou fichier *.txt) pour les thématiques 5, 6 et 7.
 
-**Au plus tard le mer. 11 avril 2014 à 13h.**
+**Le mer. 10 avril 2024, à 13h** : ce que vous avez fait jusqu'à cette date
+
+**Le jeu. 11 avril 2024, à 00h** : votre remise finale et définitive.
+
