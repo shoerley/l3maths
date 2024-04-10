@@ -23,7 +23,7 @@ Arbres de décision :
 Vous devez envoyer par mail (voir adresse en séance) les éléments suivants :
 - Vos codes sources (fichiers *.py) et vos réponses (Word, autre traitement de texte, PDF ou fichier *.txt) pour les thématiques 5, 6 et 7.
 
-**Le mer. 10 avril 2024, à 13h** : ce que vous avez fait jusqu'à cette date
+**Le mer. 10 avril 2024, à 13h** : ce que vous avez fait (parmi les thématiques demandées) jusqu'à cette date.
 
 **Le jeu. 11 avril 2024, à 00h** : votre remise finale et définitive.
 
