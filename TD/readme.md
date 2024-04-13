@@ -8,7 +8,7 @@ Vous avez deux méthodes préconnisées pour travailler :
 2. Google Colab
 
 ## 1. Usage des machines de TP
-
+ 
 Il est recommandé d'utiliser les machines de la salle de TP, sous Windows. Les instructions ci-dessous s'appliquent à ces machines, où Python est déjà installé. Vous avez la possibilité d'utiliser votre machine personnelle, mais dans ce cas, vous êtes seul responsable de sa configuration.
 
 ### 1.1 Emplacement des codes sources
